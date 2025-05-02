@@ -1,1 +1,2 @@
 # EnergyConsumption_task1
+This file is abaout energy consumption done in power bi. First I load the dataset in power bi then I select transform option to change some table values. In building master table row names was not initialized properly, so I select  filter first row use as header and then it apply first row as header. click an close and apply. After that I found null  values in energy consumption table so click on tranform and uncheck the null value in filters this will remove null values in the table. after that click on close and apply. Finally save the changes.
